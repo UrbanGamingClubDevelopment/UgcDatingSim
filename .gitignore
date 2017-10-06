@@ -2,5 +2,5 @@
 /*/
 
 !.gitignore
-!/UgcDatingSim/Assets/
-!/UgcDatingSim/ProjectSettings/
+!*/Assets/*
+!*/ProjectSettings/*
