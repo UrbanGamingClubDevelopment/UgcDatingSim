@@ -1,11 +1,11 @@
 # =============== #
 # Unity generated #
 # =============== #
-[Tt]emp/
-[Oo]bj/
-[Bb]uild
+UgcDatingSim/[Tt]emp/
+UgcDatingSim/[Oo]bj/
+UgcDatingSim/[Bb]uild
 /[Bb]uilds/
-/[Ll]ibrary/
+UgcDatingSim/[Ll]ibrary/
 sysinfo.txt
 *.stackdump
 /Assets/AssetStoreTools*
